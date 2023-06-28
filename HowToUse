@@ -1,0 +1,12 @@
+https://supermemi.tistory.com/145
+
+이 블로그가 출처
+
+bundle exec jekyll serve 
+-> local server 구동
+
+http://127.0.0.1:4000/  -> 주소
+
+
+Both choizeus.com and its alternate name are improperly configured
+Domain does not resolve to the GitHub Pages server. For more information, see documentation (NotServedByPagesError).
