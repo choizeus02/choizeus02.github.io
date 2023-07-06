@@ -3,7 +3,7 @@ title: 안녕하세요!
 feature_text: |
   ## choizeus02's blog
   최재우의 블로그
-feature_image: "img/DSCF0705.JPG"
+feature_image: "assets/images/DSCF0705.JPG"
 excerpt: "상명대 21학번 재학중"
 ---
 
@@ -14,4 +14,4 @@ excerpt: "상명대 21학번 재학중"
 
 ##### 뭘로 채울지 고민중이라 그냥 체체 사진 올립니다.
 
-![체체](img/DSCF0209.JPG)
+![체체](assets/images/DSCF0209.JPG)

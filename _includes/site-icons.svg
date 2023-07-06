@@ -23,6 +23,6 @@
   <symbol id="nav" viewBox="0 0 16 11"><path d="M0 12h16v-2H0v2zm0-5h16V5H0v2zm0-7v2h16V0H0z"/></symbol>
   <!--<symbol id="naver" viewBox="0 0 16 11"><path ="../img/naver_icon.png" /></symbol>-->
 </svg>
-<svg viewBox="0 0 46 30">
-  <image id="naver" xlink:href="../img/naver_icon.png" width="19" height="21" />
+<svg viewBox="0 0 56 30">
+  <image id="naver" xlink:href="../assets/images/naver_icon.png" width="23" height="21" />
 </svg>

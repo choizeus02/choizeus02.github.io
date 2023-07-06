@@ -8,5 +8,8 @@ bundle exec jekyll serve
 http://127.0.0.1:4000/  -> 주소
 
 
-Both choizeus.com and its alternate name are improperly configured
-Domain does not resolve to the GitHub Pages server. For more information, see documentation (NotServedByPagesError).
+
+참고 사이트
+https://etch-cure.github.io/blog/mark-down/
+
+https://velog.io/@eona1301/Github-Blog-Jekyll-minimal-mistakes#%ED%8F%AC%EC%8A%A4%ED%84%B0-%EB%82%B4%EC%9A%A9-%EC%9E%91%EC%84%B1
