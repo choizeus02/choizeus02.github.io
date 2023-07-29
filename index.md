@@ -12,6 +12,12 @@ excerpt: "상명대 21학번 재학중"
 {% include button.html text="git" icon="github" link="https://github.com/choizeus02" color="#0366d6" %} {% include button.html text="naver blog" link="https://blog.naver.com/jeremy0212" icon="naver" color="#f68140" %} {% include button.html text="instagram" icon="instagram" link="https://www.instagram.com/choizeus/" color="#70F170" %} {% include button.html text="email" icon="email" link="mailto:choizeus0212@gmail.com" color="#aaaaaa" %}
 
 
-##### 뭘로 채울지 고민중이라 그냥 체체 사진 올립니다.
+##### 하이 체체
 
 ![체체](assets/images/DSCF0209.JPG)
+
+
+{% for post in site.posts %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p>{{ post.excerpt }}</p>
+{% endfor %}

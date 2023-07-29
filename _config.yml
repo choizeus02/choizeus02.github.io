@@ -197,3 +197,5 @@ analytics:
   google:
     tracking_id          : "G-MRGN5XB5T4"
     anonymize_ip         : # true, false (default)
+
+paginate: 3

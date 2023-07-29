@@ -12,6 +12,24 @@ layout: default
     {% include post-meta.html %}
     {{ content }}
 
+    <div style="display: flex; justify-content: space-between;">
+
+      <!-- 이전 포스트로 가는 링크 -->
+      {% if page.previous %}
+        <div style="text-align: left;">
+          &lt;&lt; <a href="{{ page.previous.url }}">이전 포스트: {{ page.previous.title }}</a>
+        </div>
+      {% endif %}
+
+      <!-- 다음 포스트로 가는 링크 -->
+      {% if page.next %}
+        <div style="text-align: right;">
+          <a href="{{ page.next.url }}">다음 포스트: {{ page.next.title }}</a> &gt;&gt;
+        </div>
+      {% endif %}
+
+    </div>
+
     <!-- {% include nav-share.html %} -->
 
     {% include post-comments.html %}

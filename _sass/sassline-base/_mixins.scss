@@ -6,6 +6,7 @@
 // Number of breakpoints.
 $breakpoints-limit: length($breakpoints);
 
+
 // List of rootsizes, breakpoints, and max-widths.
 $sizes: map-values($rootsizes);
 $points: map-values($breakpoints);
