@@ -5,7 +5,9 @@ https://supermemi.tistory.com/145
 bundle exec jekyll serve 
 -> local server 구동
 
-http://127.0.0.1:4000/  -> 주소
+http://127.0.0.1:4000/
+
+  -> 주소
 
 
 
